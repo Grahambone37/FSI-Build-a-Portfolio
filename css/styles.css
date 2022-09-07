@@ -1,0 +1,11 @@
+.mydiv {
+    border-style: solid;
+    border-color: teal;
+    border-width: 5px;
+}
+.h1 {
+    border-style: initial;
+    border-color:seagreen;
+    border-width:10px;
+    text-align:center;
+}
