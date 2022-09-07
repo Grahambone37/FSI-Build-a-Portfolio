@@ -5,6 +5,7 @@
     border-radius: 5px;
     font-family:'Times New Roman', Times, serif;
     text-align:center;
+    cursor: url('images/Cursors'), auto;
 }
 .h1 {
     background-color: lightseagreen;
