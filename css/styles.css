@@ -1,11 +1,15 @@
 .myDiv {
-    border-style: solid;
+    background-color:aliceblue;
+    border-style:solid;
     border-color: teal;
-    border-width: 5px;
+    border-radius: 5px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .h1 {
+    background-color: grey;
     border-style: initial;
     border-color:seagreen;
-    border-width:10px;
+    border-radius:10px;
     text-align:center;
+    font-family: 'Times New Roman', Times, serif;
 }
