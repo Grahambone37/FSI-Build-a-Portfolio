@@ -7,7 +7,7 @@
 }
 .h1 {
     background-color: lightseagreen;
-    border-style: initial;
+    border-style: groove;
     border-color:seagreen;
     border-radius:10px;
     text-align:center;
