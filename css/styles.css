@@ -15,7 +15,9 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .bonfire {
-    border-radius: 100px;
+    border-radius: 100px ;
+    border-style: solid;
     text-align: center;
     border-color: black;
+    cursor:grab;
 }
